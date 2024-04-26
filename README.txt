@@ -1,18 +1,13 @@
-JohnDoe Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
+Hola,
 
-Product Page: https://wwww.devcrud.com/
+Este es mi portafolio como desarrollador de software.
 
-Credits:
+Aun esta en construcción, pero pronto estara con nuevas secciones e información.
 
-    Demo Images:
-        Unsplash:       	(https://www.unsplash.com)
+Contactate conmigo para conocer más de mi experiencia y especialidad.
 
-    Icons:
-		Themify Icons: 		(https://themify.me/themify-icons)
 
-	Other:
-		JQuery: 			(https://www.jquery.com)
-		Bootstrap: 			(https://www.getbootstrap.com)
-		Bootstrap Affix: 	(http://getbootstrap.com/javascript/#affix)  
-		Isotope: 			(https://isotope.metafizzy.co/) 
-		Google Maps:		(https://maps.google.com)
+Saludos,
+
+Daniel Ricardo Osorio Chambueta
+Ingeniero de Sistemas & Desarrollador de Software
